@@ -53,3 +53,6 @@ If you like this project, please do well to give a star
 
 #### Acknowledgments
 I would like to thank the microverse community for their lessons
+
+#### License
+This project is MIT licensed.
