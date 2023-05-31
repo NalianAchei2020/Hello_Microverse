@@ -51,5 +51,8 @@ Feel free to check the [issues page](https://github.com/NalianAchei2020/Hello_Mi
 #### Show your support
 If you like this project, please do well to give a star
 
+#### Lincense
+This project is [MIT](https://github.com/NalianAchei2020/Hello_Microverse/pull/2)
+
 #### Acknowledgments
 I would like to thank the microverse community for their lessons
