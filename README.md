@@ -31,7 +31,7 @@
 
 This project is base on setting up a project or repository on github in a professional way and practice on how to use linters in html and css.
 
-*[Hello_Microverse]* is a HTML CSS project
+*[Hello_Microverse]* is a HTML and CSS project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -91,9 +91,9 @@ On your terminal, cd to the current folder and run
 
 You can deploy this project using:
 
-  gh-pages
-  netlify
-  vercel
+ - gh-pages
+ - netlify
+ - vercel
 
 ## 👥 Authors <a name="authors"></a>
 
