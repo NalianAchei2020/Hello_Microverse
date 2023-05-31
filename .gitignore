@@ -1,2 +1,11 @@
-#ignore
+# dependencies
 /node_modules
+
+# linters
+.hintrc
+.stylelintrc.json
+/github
+
+
+# vscode
+/.vscode
