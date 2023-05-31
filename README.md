@@ -72,7 +72,7 @@ Clone this repository to your desired folder:
 ### Install
 
 Install this project with:
-cmd or vscode terminal
+- cmd or vscode terminal
 - Install node js if you have not install
 - Go to your terminal and cd to folder, type npm install. This will install all the npm dependencies
 
