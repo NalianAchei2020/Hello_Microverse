@@ -8,7 +8,7 @@ This project is built with html and css
 The project has a header with a h1 element which has a background-color and text-color styled with css
 
 ### Live Demo
-Here is a link to the live demo
+[Click here to see demo](https://nalianachei2020.github.io/Hello_Microverse/)
 
 ### Getting Started
 To get a local copy up and running, follow these steps.
@@ -24,10 +24,22 @@ In order to run this project you need:
 - Go to your terminal and cd to folder, type npm install. This will install all the npm dependencies
 
 #### Usage
--  Run the project on 
+-  Run the project on chrome or any browser of your choice
 
 #### Run tests
+On your terminal, cd to the current folder and run 
+- **npx hint** to test  the html code
+- npx stylelint "**/*.{css,scss}" to test the css code
 
 #### Deployment
+You can create you repository and deploy this project on githut using:
+- This format for README file
+- Commit messages
+- Create a branch
+- Create a pull request
 
 #### Authors
+Nalian Achei 
+- Github: [@NalianAchei2020](https://github.com/NalianAchei2020)
+- Linkedin: [Nalian Achei](https://www.linkedin.com/in/nalian-achei-683208275)
+- Twitter: [@NalianAchei](https://twitter.com/NalianAchei?t=E3ePLcJ7B45dBa8SBFIXDg&s=09)
