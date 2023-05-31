@@ -4,7 +4,10 @@
 # linters
 .hintrc
 .stylelintrc.json
+<<<<<<< HEAD
 
+=======
+>>>>>>> 679ee18391f31aa4248300cf4475c7b07d68fa93
 
 
 # vscode
