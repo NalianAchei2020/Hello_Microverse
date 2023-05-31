@@ -43,3 +43,13 @@ Nalian Achei
 - Github: [@NalianAchei2020](https://github.com/NalianAchei2020)
 - Linkedin: [Nalian Achei](https://www.linkedin.com/in/nalian-achei-683208275)
 - Twitter: [@NalianAchei](https://twitter.com/NalianAchei?t=E3ePLcJ7B45dBa8SBFIXDg&s=09)
+
+####  Contributing
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/NalianAchei2020/Hello_Microverse/issues).
+#### Show your support
+If you like this project, please do well to give a star
+
+#### Acknowledgments
+I would like to thank the microverse community for their lessons
