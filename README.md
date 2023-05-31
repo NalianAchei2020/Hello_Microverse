@@ -27,6 +27,8 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
+<!-- PROJECT DESCRIPTION -->
+
 # 📖 Hello_Microverse <a name="about-project"></a>
 
 This project is base on setting up a project or repository on github in a professional way and practice on how to use linters in html and css.
@@ -64,9 +66,9 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-
+sh
 - Create a folder
-- Open the folder on cmd
+- cd in to folder you just created
 - Type git clone https://github.com/NalianAchei2020/Hello_Microverse
 
 ### Install
