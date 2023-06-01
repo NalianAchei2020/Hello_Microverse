@@ -1,10 +1,6 @@
 # dependencies
 /node_modules
 
-# linters
-.hintrc
-.stylelintrc.json
-
 # vscode
 /.vscode
 #test
