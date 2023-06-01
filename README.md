@@ -25,6 +25,7 @@
 - [👥 Authors](#authors)
 - [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
@@ -76,7 +77,7 @@ sh
 
 Install this project with:
 - cmd or vscode terminal
-- - Install node js if you have not install
+- Install node js if you have not install
 - Go to your terminal and cd to folder, type npm install. This will install all the npm dependencies
 
 ### Usage
